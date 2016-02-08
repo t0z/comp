@@ -17,7 +17,7 @@ __bios,boot,preos__
 + [Confirmation of a Coordinated Attack on the Ukrainian Power Grid](https://ics.sans.org/blog/2016/01/09/confirmation-of-a-coordinated-attack-on-the-ukrainian-power-grid)
 __ukrain,powergrid,attack__
 
-> Confirmation of a Coordinated Attack on the Ukrainian Power Grid
+> After analyzing the information that has been made available by affected power companies, researchers, and the media it is clear that cyber attacks were directly responsible for power outages in Ukraine. The SANS ICS team has been coordinating ongoing discussions and providing analysis across multiple international community members and companies. We assess with high confidence based on company statements, media reports, and first-hand analysis that the incident was due to a coordinated intentional attack.
 
 + [MadProtect, not that mad](http://www.cert.pl/news/11073)
 __madprotect,malware,netwire,packer__
