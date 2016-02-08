@@ -2,6 +2,10 @@
 
 # 201602
 
+## arch
++[The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
+>An optimization guide for assembly programmers and compiler makers
+
 ## sec
 + [MadProtect, not that mad](http://www.cert.pl/news/11073)
 __madprotect,malware,netwire,packer__
