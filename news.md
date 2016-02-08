@@ -46,8 +46,6 @@ __reverse,zine__
 __python__
 
 > Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. 
----
 
 + [trace – Follow Python statements as they are executed](https://pymotw.com/2/trace/)
-  python,debug,trace
----
+__python,debug,trace__
