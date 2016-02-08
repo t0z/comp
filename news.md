@@ -8,16 +8,16 @@ __cpu,arch,intel,amd,via__
 
 > An optimization guide for assembly programmers and compiler makers
 
++ [BITS](http://biosbits.org/)
+__bios,boot,preos__
+
+> The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
+
 ## sec
 + [MadProtect, not that mad](http://www.cert.pl/news/11073)
 __madprotect,malware,netwire,packer__
 
 > Some weeks ago we stumbled on a packer that our tools could not break. Surprisingly, this is actually not that common since most of the malware in the wild uses some sort of RunPE technique which is relatively trivial to break using simple memory tracing.
-
-+ [BITS](http://biosbits.org/)
-__bios,boot,preos__
-
-> The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
 
 + [keybase](https://keybase.io/)
 __secure,service__
