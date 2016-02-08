@@ -2,6 +2,12 @@
 
 # 201602
 
+## hardware
++ [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/)
+__hardware,javascript,iot__
+
+> The Internet of Things (IoT) has enabled the Internet to reach beyond the browser. Made up of electronically networked devices, these “things” are able to interact with the physical world via sensors that feed data they capture back into their ecosystems.
+
 ## arch
 + [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
 __cpu,arch,intel,amd,via,pdf__
