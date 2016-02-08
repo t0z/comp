@@ -14,6 +14,11 @@ __bios,boot,preos__
 > The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
 
 ## sec
++ [Adblocking for Internet Explorer without an extension: Enterprise deployment](http://decentsecurity.com/enterprise/#/adblocking-for-internet-explorer-deployment/)
+__windows,adblock,enterprise__
+
+> Blocking advertising has multiple security and performance benefits to clients. Ads are especially dangerous to corporate computers, which often run outdated plugins that can be exploited by malvertising. Most people immediately jump to thinking they need Firefox or Chrome to do this. However, did you know Internet Explorer has adblocking built-in? The feature is called "Tracking Protection Lists," and while not as powerful as a full adblocking extension, it is very effective.
+
 + [Confirmation of a Coordinated Attack on the Ukrainian Power Grid](https://ics.sans.org/blog/2016/01/09/confirmation-of-a-coordinated-attack-on-the-ukrainian-power-grid)
 __ukrain,powergrid,attack__
 
