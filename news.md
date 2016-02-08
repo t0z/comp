@@ -15,6 +15,7 @@ __bios,boot,preos__
 
 ## sec
 + [FIND VULNERABLE ROUTERS AND DEVICES ON THE INTERNET](http://securityblog.gr/3247/find-vulnerable-routers-and-devices-on-the-internet/)
+__pentest,scan,router,network__
 
 > The Routerhunter is an automated security tool que finds vulnerabilities and performs tests on routers and vulnerable devices on the Internet. The Routerhunter was designed to run over the Internet looking for defined ips tracks or random in order to automatically exploit the vulnerability DNSChanger on home routers.
 
