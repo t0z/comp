@@ -3,8 +3,9 @@
 # 201602
 
 ## sec
-+ [BITS](http://biosbits.org/) [#bios #boot #preos]
->The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
++ [BITS](http://biosbits.org/)
+>__#bios #boot #preos__
+>> The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
 + [keybase](https://keybase.io/) [#secure #service]
 >Keybase is more than a website. If you're comfortable working in a terminal, you should install the keybase command line program. You can do so much with it: sign, verify, encrypt, generate messages, sign code, move keys around, etc., all using GPG for the crypto.
 + [BSIDESTO 2015 - NICK ALEKS - WEAPONS OF A PENTESTER](https://www.youtube.com/watch?v=lDvf4ScWbcQ) [#pentest #physic #network #video]
