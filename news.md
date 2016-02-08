@@ -14,6 +14,11 @@ __bios,boot,preos__
 > The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
 
 ## sec
++ [](https://ics.sans.org/blog/2016/01/09/confirmation-of-a-coordinated-attack-on-the-ukrainian-power-grid)
+__ukrain,powergrid,attack__
+
+> Confirmation of a Coordinated Attack on the Ukrainian Power Grid
+
 + [MadProtect, not that mad](http://www.cert.pl/news/11073)
 __madprotect,malware,netwire,packer__
 
