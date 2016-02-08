@@ -4,7 +4,7 @@
 
 ## arch
 + [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
-__cpu,arch,intel,amd,via__
+__cpu,arch,intel,amd,via,pdf__
 
 > An optimization guide for assembly programmers and compiler makers
 
