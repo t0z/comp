@@ -3,7 +3,7 @@
 # 201602
 
 ## arch
-+[The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
++ [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
 >An optimization guide for assembly programmers and compiler makers
 
 ## sec
