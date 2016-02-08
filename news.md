@@ -14,6 +14,10 @@ __bios,boot,preos__
 > The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
 
 ## sec
++ [FIND VULNERABLE ROUTERS AND DEVICES ON THE INTERNET](http://securityblog.gr/3247/find-vulnerable-routers-and-devices-on-the-internet/)
+
+> The Routerhunter is an automated security tool que finds vulnerabilities and performs tests on routers and vulnerable devices on the Internet. The Routerhunter was designed to run over the Internet looking for defined ips tracks or random in order to automatically exploit the vulnerability DNSChanger on home routers.
+
 + [Adblocking for Internet Explorer without an extension: Enterprise deployment](http://decentsecurity.com/enterprise/#/adblocking-for-internet-explorer-deployment/)
 __windows,adblock,enterprise__
 
