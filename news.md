@@ -74,3 +74,8 @@ __cpu,arch,intel,amd,via,pdf__
 __bios,boot,preos__
 
 > The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
+
+### electronic
+
++ [electronics Forrest Mims engineer's mini notebook 555 timer circuits (radio shack electronics)](https://archive.org/details/electronics_-_Forrest_Mims-engineers_mini-notebook_555_timer_circuits_radio_sha)
+> electronics Forrest Mims engineer's mini notebook 555 timer circuits (radio shack electronics)
