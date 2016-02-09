@@ -2,32 +2,46 @@
 ## ::User
 ### ::Browser
 + [tineye](https://www.tineye.com)
->__#addon__
->>Image reverse search engine
----
+__#addon__
+
+> Image reverse search engine
+
 + [privacy badge](https://www.eff.org/privacybadger)
->__#addon__
->>Privacy Badger blocks spying ads and invisible trackers.
----
+__#addon__
+
+> Privacy Badger blocks spying ads and invisible trackers.
+
 ## ::it
+
 + [nmap](https://nmap.org)
->__#pentest #scan #network__
->> Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. While Nmap is commonly used for security audits, many systems and network administrators find it useful for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.```
----
+__#pentest #scan #network__
+
+> Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. While Nmap is commonly used for security audits, many systems and network administrators find it useful for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.```
+
++ [p0f](http://lcamtuf.coredump.cx/p0f3/)
+__fingerprint,network,sniff__
+
+> P0f is a tool that utilizes an array of sophisticated, purely passive traffic fingerprinting mechanisms to identify the players behind any incidental TCP/IP communications (often as little as a single normal SYN) without interfering in any way. Version 3 is a complete rewrite of the original codebase, incorporating a significant number of improvements to network-level fingerprinting, and introducing the ability to reason about application-level payloads (e.g., HTTP).
+
 + [wireshark](https://www.wireshark.org/download.html)
->__#analyze #network #packet__
->> Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
----
+__#analyze #network #packet__
+
+> Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
+
 + [blurp suite](https://portswigger.net/burp/)
->__#pentest #proxy #web__
->>Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities.
----
+__#pentest #proxy #web__
+
+> Burp Suite is an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities.
+
 + [mimikatz](http://blog.gentilkiwi.com/mimikatz)
 __#pentest #windows__
----
+
 + [wifiphisher](https://github.com/sophron/wifiphisher)
 __#pentest #phishing #wifi__
+
 > Wifiphisher is a security tool that mounts automated phishing attacks against WiFi networks in order to obtain secret passphrases or other credentials. It is a social engineering attack that unlike other methods it does not include any brute forcing. It is an easy way for obtaining credentials from captive portals and third party login pages or WPA/WPA2 secret passphrases.```
+
+
 # ::lang
 ## ::ide
 + [eclipse](https://eclipse.org)
