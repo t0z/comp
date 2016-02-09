@@ -1,6 +1,10 @@
 ## ::201602/news::
 
 ### sec
++ [Tidas: a new service for building password-less apps](http://blog.trailofbits.com/2016/02/09/tidas-a-new-service-for-building-password-less-apps/)
+
+> For most mobile app developers, password management has as much appeal as a visit to the dentist. You do it because you have to, but it is annoying and easy to screw up, even when using standard libraries or protocols like OAUTH.
+
 + [The many ways of handling TCP RST packets](https://www.snellman.net/blog/archive/2016-02-01-tcp-rst/)
 
 > What could be a simpler networking concept than TCP's RST packet? It just crudely closes down a connection, nothing subtle about it. Due to some odd RST behavior we saw at work, I went digging in RFCs to check what's the technically correct behavior and in different TCP implementations to see what's actually done in practice.
