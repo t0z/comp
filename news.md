@@ -1,31 +1,14 @@
-# news
-
-# 201602
-
-## crypto
-+ [If you (kind-of) bang two files together, sometimes it will generate a (partial) SHA-1 collision](http://tylerfisher.org/partial-sha1-collisions/)
-__crypto,sha1,collision__
-
-> The general formulation of a birthday attack on a given cryptographic hash function is as follows, given a deterministic hash function H:m→{0,1}nH:m→{0,1}n with an expected running time of O(2n/2)O(2n/2) over a search space O(2n/2)O(2n/2).
-
-## hardware
-+ [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/)
-__hardware,javascript,iot__
-
-> The Internet of Things (IoT) has enabled the Internet to reach beyond the browser. Made up of electronically networked devices, these “things” are able to interact with the physical world via sensors that feed data they capture back into their ecosystems.
-
-## arch
-+ [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
-__cpu,arch,intel,amd,via,pdf__
-
-> An optimization guide for assembly programmers and compiler makers
-
-+ [BITS](http://biosbits.org/)
-__bios,boot,preos__
-
-> The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
+# [201602/news]
 
 ## sec
++ [Deviare-InProc](https://github.com/nektra/Deviare-InProc)
+
+> The library is coded in C++ and provides all the facilities required to instrument binary libraries during runtime. It includes support for both 32 and 64 bit applications and it implements the interception verifying different situations that can crash the process. If you need to intercept any Win32 functions or any other code, this library makes it easier than ever.
+
++ [randkit-random-number-rootkit](?)
+
+>
+
 + [FIND VULNERABLE ROUTERS AND DEVICES ON THE INTERNET](http://securityblog.gr/3247/find-vulnerable-routers-and-devices-on-the-internet/)
 __pentest,scan,router,network__
 
@@ -81,3 +64,13 @@ __python__
 
 + [trace – Follow Python statements as they are executed](https://pymotw.com/2/trace/)
 __python,debug,trace__
+
+## arch
++ [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
+__cpu,arch,intel,amd,via,pdf__
+
+> An optimization guide for assembly programmers and compiler makers
++ [BITS](http://biosbits.org/)
+__bios,boot,preos__
+
+> The Intel BIOS Implementation Test Suite (BITS) provides a bootable pre-OS environment for testing BIOSes and in particular their initialization of Intel processors, hardware, and technologies. BITS can verify your BIOS against many Intel recommendations. In addition, BITS includes Intel's official reference code as provided to BIOS, which you can use to override your BIOS's hardware initialization with a known-good configuration, and then boot an OS.
