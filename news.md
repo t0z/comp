@@ -2,6 +2,12 @@
 
 # 201602
 
+## crypto
++ [If you (kind-of) bang two files together, sometimes it will generate a (partial) SHA-1 collision](http://tylerfisher.org/partial-sha1-collisions/)
+__crypto,sha1,collision__
+
+> The general formulation of a birthday attack on a given cryptographic hash function is as follows, given a deterministic hash function H:m→{0,1}nH:m→{0,1}n with an expected running time of O(2n/2)O(2n/2) over a search space O(2n/2)O(2n/2).
+
 ## hardware
 + [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/)
 __hardware,javascript,iot__
