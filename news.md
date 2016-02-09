@@ -1,6 +1,11 @@
 ## ::201602/news::
 
 ### sec
++ [Hijacking forgotten & misconfigured subdomains](http://www.xexexe.cz/2016/02/hijacking-forgotten-misconfigured.html)
+
+> Hey netsec folks, it's been a while since my last blog post, so I decided to release a new tool ;)
+I think that we need more articles about "DNS hacking", I hope that you will learn something new here.
+
 + [Tidas: a new service for building password-less apps](http://blog.trailofbits.com/2016/02/09/tidas-a-new-service-for-building-password-less-apps/)
 
 > For most mobile app developers, password management has as much appeal as a visit to the dentist. You do it because you have to, but it is annoying and easy to screw up, even when using standard libraries or protocols like OAUTH.
