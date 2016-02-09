@@ -1,6 +1,6 @@
-# [201602/news]
+## ::201602/news::
 
-## sec
+### sec
 + [Deviare-InProc](https://github.com/nektra/Deviare-InProc)
 
 > The library is coded in C++ and provides all the facilities required to instrument binary libraries during runtime. It includes support for both 32 and 64 bit applications and it implements the interception verifying different situations that can crash the process. If you need to intercept any Win32 functions or any other code, this library makes it easier than ever.
@@ -50,7 +50,7 @@ __reverse,zine__
 
 + [Deserialization in Perl v5.8](http://www.agarri.fr/kom/archives/2016/02/06/deserialization_in_perl_v5_8/index.html)    __pentest,perl,reverse__
 
-## dev
+### dev
 
 + [libsalamander](https://github.com/SilentCircle/libsalamander)
 __silentcircle,salamander,protocol,messaging__
@@ -65,7 +65,7 @@ __python__
 + [trace – Follow Python statements as they are executed](https://pymotw.com/2/trace/)
 __python,debug,trace__
 
-## arch
+### arch
 + [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
 __cpu,arch,intel,amd,via,pdf__
 
