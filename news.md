@@ -61,7 +61,12 @@ __reverse,zine__
 
 + [Deserialization in Perl v5.8](http://www.agarri.fr/kom/archives/2016/02/06/deserialization_in_perl_v5_8/index.html)    __pentest,perl,reverse__
 
-## lang
+## dev
+
++ [libsalamander](https://github.com/SilentCircle/libsalamander)
+__silentcircle,salamander,protocol,messaging__
+
+> Salamander is a secure messaging protocol for mobile devices. It uses the Axolotl Ratchet designed by Trevor Perrin and Moxie Marlinspike.
 
 + [rust](https://www.rust-lang.org)
 __python__
