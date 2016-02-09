@@ -5,7 +5,7 @@
 
 > The library is coded in C++ and provides all the facilities required to instrument binary libraries during runtime. It includes support for both 32 and 64 bit applications and it implements the interception verifying different situations that can crash the process. If you need to intercept any Win32 functions or any other code, this library makes it easier than ever.
 
-+ [randkit-random-number-rootkit](?)
++ [randkit-random-number-rootkit](#)
 
 >
 
