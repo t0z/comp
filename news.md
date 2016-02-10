@@ -84,6 +84,10 @@ __python__
 __python,debug,trace__
 
 ### arch
++ [Blog: How do Win 3.1 applications work in Wine?](http://www.wine-staging.com/news/2016-02-10-blog-wine-16bit.html)
+
+> If you read our release notes frequently, you might have noticed that I tend to explain the background behind the changes in Wine Staging as I imagine that this might be interesting for some of our readers. However, those explanations do not really belong into the release notes, so I decided to move them to separate blog posts. So welcome to my first blog post in which I explain how the 16 bit support works in Wine and which typical bugs you may encounter. I hope you enjoy reading it although it is going to be very technical, but maybe you learn something from it :-).
+
 + [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
 __cpu,arch,intel,amd,via,pdf__
 
