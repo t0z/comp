@@ -1,4 +1,4 @@
-## ::201602/news::
+## ::201602 / news::
 
 ### sec
 + [Hijacking forgotten & misconfigured subdomains](http://www.xexexe.cz/2016/02/hijacking-forgotten-misconfigured.html)
