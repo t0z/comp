@@ -63,6 +63,11 @@ __reverse,zine__
 
 + [Deserialization in Perl v5.8](http://www.agarri.fr/kom/archives/2016/02/06/deserialization_in_perl_v5_8/index.html)    __pentest,perl,reverse__
 
+### sys
++ [Creating containers - Part 1](http://crosbymichael.com/creating-containers-part-1.html)
+
+> This is part one of a series of blog posts detailing how docker creates containers. We will dig deep into the various pieces that are stitched together to see what it takes to make docker run ... awesome.
+
 ### dev
 
 + [libsalamander](https://github.com/SilentCircle/libsalamander)
