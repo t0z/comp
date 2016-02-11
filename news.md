@@ -6,9 +6,9 @@
 > Whether you want to protect the operating system components or your personal files, a Full Disk Encryption (FDE) solution allows you to keep track of the confidentiality and integrity. One of the most commonly used FDE solutions is Microsoft Bitlocker®, which due to its integration with the Trusted Platform Module (TPM) as well as the Active Directory environment makes it both user-friendly and manageable in a corporate environment. 
 When the system is protected with a FDE solution, without a pre-boot password, the login or lock screen makes sure attackers with physical access are not able to gain access to the system. 
 
-+ [](http://colin.keigher.ca/2016/02/the-hype-about-crypter-is-misplaced-and.html)
++ [The hype about Crypter is misplaced and overall dangerous](http://colin.keigher.ca/2016/02/the-hype-about-crypter-is-misplaced-and.html)
 
->
+> My problem with cryptography boils down to this: every once in a while, someone comes along claiming that they have a system or software that will revolutionize everything. Naturally, a media frenzy ensues with minimal fact checking. The security industry then catches wind of it, and it is quickly and thoroughly demonstrated to be a pile of vaporware garbage. Then we collectively discover that the enterprising individual has also managed to secure a hefty amount of funding and has spent most of it on a swank office and catered lunches.
 
 + [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/study/red-blue-purple-teams/)
 
