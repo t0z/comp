@@ -158,6 +158,14 @@ __python__
 __python,debug,trace__
 
 ### arch
++ [Build Your Own (Cross-) Assembler....in Forth](http://www.bradrodriguez.com/papers/tcjassem.txt)
+
+> In a previous issue of this journal I described how to
+  "bootstrap" yourself into a new processor, with a simple
+  debug monitor.  But how do you write code for this new CPU,
+  when you can't find or can't afford an assembler?  Build
+  your own!
+
 + [Blog: How do Win 3.1 applications work in Wine?](http://www.wine-staging.com/news/2016-02-10-blog-wine-16bit.html)
 
 > If you read our release notes frequently, you might have noticed that I tend to explain the background behind the changes in Wine Staging as I imagine that this might be interesting for some of our readers. However, those explanations do not really belong into the release notes, so I decided to move them to separate blog posts. So welcome to my first blog post in which I explain how the 16 bit support works in Wine and which typical bugs you may encounter. I hope you enjoy reading it although it is going to be very technical, but maybe you learn something from it :-).
