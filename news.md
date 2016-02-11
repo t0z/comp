@@ -1,6 +1,16 @@
 ## ::201602 / news::
 
 ### sec
+
++ [Intelligence-Driven Incident Response with YARA](https://www.sans.org/reading-room/whitepapers/forensics/intelligence-driven-incident-response-yara-35542)
+__sec,methodologie__
+
+> Given the current cyber threat landscape, organizations are now beginning to acknowledge the inexorable law
+that decrees that they will be compromised. Threat actors' tactics, techniques, and procedures demand
+intelligence-driven incident response, which in turn, depend upon methodologies capable of yielding actionable
+threat intelligence in order to adapt to each threat. The process to develop such intelligence is already in
+motion, heavily relying on behavioral analysis, and has given birth to cyber threat indicators...
+
 + [Image size issues for Burp Suite](https://github.com/silentsignal/burp-image-size)
 __burp,plugin__
 
