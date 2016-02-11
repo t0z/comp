@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [NetworkOpenedFiles v1.00](http://www.nirsoft.net/utils/network_opened_files.html)
+
+> NetworkOpenedFiles is a simple tool for Windows that displays the list of all files that are currently opened by other computers on your network. For every opened filename, the following information is displayed: Filename, user name, computer name (On Windows 7/2008 or later), Permissions information (Read/Write/Create), locks count, file owner, file size, file attributes, and more...
+
 + [From zero to SYSTEM on full disk encrypted Windows system (Part 1)](https://blog.ahmednabeel.com/from-zero-to-system-on-full-disk-encrypted-windows-system/)
 
 > Whether you want to protect the operating system components or your personal files, a Full Disk Encryption (FDE) solution allows you to keep track of the confidentiality and integrity. One of the most commonly used FDE solutions is Microsoft Bitlocker®, which due to its integration with the Trusted Platform Module (TPM) as well as the Active Directory environment makes it both user-friendly and manageable in a corporate environment. 
