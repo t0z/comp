@@ -1,6 +1,15 @@
 ## ::201602 / news::
 
 ### sec
++ [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
++ [trustedsec](https://www.trustedsec.com/february-2016/set-v7-0-remembrance-released/)
+
+> The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
+
++ [Stratosphere IPS Project](https://stratosphereips.org)
+
+> The Stratosphere IPS is a free software Intrusion Prevention System that uses Machine Learning to detect and block known malicious behaviors in the network traffic. The behaviors are learnt from highly verified malware and normal traffic connections in our research laboratory. Our goal is to provide the community and specially the NGOs and CSOs with an advanced tool that can protect against targeted attacks.
+
 + [Hijacking forgotten & misconfigured subdomains](http://www.xexexe.cz/2016/02/hijacking-forgotten-misconfigured.html)
 
 > Hey netsec folks, it's been a while since my last blog post, so I decided to release a new tool ;)
