@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/study/red-blue-purple-teams/)
+
+> There is some confusion about the definitions of Red, Blue, and Purple teams within Information Security. Here are my definitions and concepts associated with them.
+
 + [PoC k GTFO 8](https://www.alchemistowl.org/pocorgtfo/pocorgtfo08.pdf)
 
 + [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
