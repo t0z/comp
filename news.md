@@ -1,6 +1,9 @@
 ## ::201602 / news::
 
 ### sec
++ [Shellsploit](https://github.com/b3mb4m/shellsploit-framework)
+
+> Shellsploit let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 
 + [How to isolate VBS or JScript malware with Visual Studio](http://www.welivesecurity.com/2016/02/11/isolate-vbs-jscript-malware-visual-studio/)
 
