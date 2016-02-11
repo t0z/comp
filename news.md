@@ -1,56 +1,74 @@
 ## ::201602 / news::
 
 ### sec
++ [REMNUX V6 FOR MALWARE ANALYSIS (PART 2): STATIC FILE ANALYSIS](http://malwology.com/2016/02/09/remnux-v6-for-malware-analysis-part-2-static-file-analysis/)
+__malware,analysis__
+
+> In this post, we’ll continue exploring some of the helpful capabilities included in REMnux v6. Be sure to regularly update your REMnux VM by running the command update-remnux.
+
 + [Shellsploit](https://github.com/b3mb4m/shellsploit-framework)
+__shellcode__
 
 > Shellsploit let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 
 + [How to isolate VBS or JScript malware with Visual Studio](http://www.welivesecurity.com/2016/02/11/isolate-vbs-jscript-malware-visual-studio/)
+__malware,analysis,vbs,js__
 
 > In recent years, the ESET Latin America Investigation Laboratory has witnessed a growth in malware developed using scripting languages. This is why we now want to demonstrate how to configure a dynamic analysis environment to isolate such threats so we can understand and observe their behavior in a controlled environment.
 
 + [NetworkOpenedFiles v1.00](http://www.nirsoft.net/utils/network_opened_files.html)
+__tools,windows__
 
 > NetworkOpenedFiles is a simple tool for Windows that displays the list of all files that are currently opened by other computers on your network. For every opened filename, the following information is displayed: Filename, user name, computer name (On Windows 7/2008 or later), Permissions information (Read/Write/Create), locks count, file owner, file size, file attributes, and more...
 
 + [From zero to SYSTEM on full disk encrypted Windows system (Part 1)](https://blog.ahmednabeel.com/from-zero-to-system-on-full-disk-encrypted-windows-system/)
+__windows,disk,encryption__
 
 > Whether you want to protect the operating system components or your personal files, a Full Disk Encryption (FDE) solution allows you to keep track of the confidentiality and integrity. One of the most commonly used FDE solutions is Microsoft Bitlocker®, which due to its integration with the Trusted Platform Module (TPM) as well as the Active Directory environment makes it both user-friendly and manageable in a corporate environment. 
 When the system is protected with a FDE solution, without a pre-boot password, the login or lock screen makes sure attackers with physical access are not able to gain access to the system. 
 
 + [The hype about Crypter is misplaced and overall dangerous](http://colin.keigher.ca/2016/02/the-hype-about-crypter-is-misplaced-and.html)
+__crypter,analysis__
 
 > My problem with cryptography boils down to this: every once in a while, someone comes along claiming that they have a system or software that will revolutionize everything. Naturally, a media frenzy ensues with minimal fact checking. The security industry then catches wind of it, and it is quickly and thoroughly demonstrated to be a pile of vaporware garbage. Then we collectively discover that the enterprising individual has also managed to secure a hefty amount of funding and has spent most of it on a swank office and catered lunches.
 
 + [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/study/red-blue-purple-teams/)
+__sec,opinion__
 
 > There is some confusion about the definitions of Red, Blue, and Purple teams within Information Security. Here are my definitions and concepts associated with them.
 
 + [PoC k GTFO 8](https://www.alchemistowl.org/pocorgtfo/pocorgtfo08.pdf)
+__fanzine__
 
 + [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 + [trustedsec](https://www.trustedsec.com/february-2016/set-v7-0-remembrance-released/)
+__socialengineering,tools,set__
 
 > The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
 
 + [Stratosphere IPS Project](https://stratosphereips.org)
+__tools,ips__
 
 > The Stratosphere IPS is a free software Intrusion Prevention System that uses Machine Learning to detect and block known malicious behaviors in the network traffic. The behaviors are learnt from highly verified malware and normal traffic connections in our research laboratory. Our goal is to provide the community and specially the NGOs and CSOs with an advanced tool that can protect against targeted attacks.
 
 + [Hijacking forgotten & misconfigured subdomains](http://www.xexexe.cz/2016/02/hijacking-forgotten-misconfigured.html)
+__sec,tool,dns,hack__
 
 > Hey netsec folks, it's been a while since my last blog post, so I decided to release a new tool ;)
 I think that we need more articles about "DNS hacking", I hope that you will learn something new here.
 
 + [Tidas: a new service for building password-less apps](http://blog.trailofbits.com/2016/02/09/tidas-a-new-service-for-building-password-less-apps/)
+__passwordless,service__
 
 > For most mobile app developers, password management has as much appeal as a visit to the dentist. You do it because you have to, but it is annoying and easy to screw up, even when using standard libraries or protocols like OAUTH.
 
 + [The many ways of handling TCP RST packets](https://www.snellman.net/blog/archive/2016-02-01-tcp-rst/)
+__network,tcp,rst__
 
 > What could be a simpler networking concept than TCP's RST packet? It just crudely closes down a connection, nothing subtle about it. Due to some odd RST behavior we saw at work, I went digging in RFCs to check what's the technically correct behavior and in different TCP implementations to see what's actually done in practice.
 
 + [Deviare-InProc](https://github.com/nektra/Deviare-InProc)
+__intercept,analysis,binary__
 
 > The library is coded in C++ and provides all the facilities required to instrument binary libraries during runtime. It includes support for both 32 and 64 bit applications and it implements the interception verifying different situations that can crash the process. If you need to intercept any Win32 functions or any other code, this library makes it easier than ever.
 
