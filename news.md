@@ -1,6 +1,16 @@
 ## ::201602 / news::
 
 ### sec
++ [Image size issues for Burp Suite](https://github.com/silentsignal/burp-image-size)
+__burp,plugin__
+
+> When serving image assets, many web developers find it useful to have a feature that scales the image to a size specified in a URL parameter. Such functionality can not only be used for scaling images down but also making them huge, this leads to Denial of Service (DoS). This Burp plugin that can be loaded into Extender, and passively detects if the size of an image reply is included in the request parameters.
+
++ [Angler EK leads to fileless Gootkit](http://www.cyphort.com/angler-ek-leads-to-fileless-gootkit/)
+__malware,analysis__
+
+> On January 27, 2016 Cyphort Labs discovered a site infected with Angler EK leading to a fileless Gootkit (a.k.a. XswKit) malware. The site was redirecting visitors to the malware through a compromised OpenX Ad server injecting a malicious iframe into the page. The iframe leads to Angler EK which downloads Bedep ad-fraud which then downloads a Gootkit loader. 
+
 + [REMNUX V6 FOR MALWARE ANALYSIS (PART 2): STATIC FILE ANALYSIS](http://malwology.com/2016/02/09/remnux-v6-for-malware-analysis-part-2-static-file-analysis/)
 __malware,analysis__
 
