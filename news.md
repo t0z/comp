@@ -1,6 +1,15 @@
 ## ::201602 / news::
 
 ### sec
++ [From zero to SYSTEM on full disk encrypted Windows system (Part 1)](https://blog.ahmednabeel.com/from-zero-to-system-on-full-disk-encrypted-windows-system/)
+
+> Whether you want to protect the operating system components or your personal files, a Full Disk Encryption (FDE) solution allows you to keep track of the confidentiality and integrity. One of the most commonly used FDE solutions is Microsoft Bitlocker®, which due to its integration with the Trusted Platform Module (TPM) as well as the Active Directory environment makes it both user-friendly and manageable in a corporate environment. 
+When the system is protected with a FDE solution, without a pre-boot password, the login or lock screen makes sure attackers with physical access are not able to gain access to the system. 
+
++ [](http://colin.keigher.ca/2016/02/the-hype-about-crypter-is-misplaced-and.html)
+
+>
+
 + [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/study/red-blue-purple-teams/)
 
 > There is some confusion about the definitions of Red, Blue, and Purple teams within Information Security. Here are my definitions and concepts associated with them.
