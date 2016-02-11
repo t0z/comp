@@ -12,11 +12,15 @@ __#addon__
 > Privacy Badger blocks spying ads and invisible trackers.
 
 ## ::it
-
 + [nmap](https://nmap.org)
 __#pentest #scan #network__
 
 > Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. While Nmap is commonly used for security audits, many systems and network administrators find it useful for routine tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.```
+
++ [metasploit](http://www.metasploit.com)
+
+> A collaboration of the open source community and Rapid7. Our penetration testing software, Metasploit, helps verify 
+vulnerabilities and manage security assessments.
 
 + [p0f](http://lcamtuf.coredump.cx/p0f3/)
 __#fingerprint #network #sniff__
