@@ -1,6 +1,11 @@
 ## ::201602 / news::
 
 ### sec
+
++ [How to isolate VBS or JScript malware with Visual Studio](http://www.welivesecurity.com/2016/02/11/isolate-vbs-jscript-malware-visual-studio/)
+
+> In recent years, the ESET Latin America Investigation Laboratory has witnessed a growth in malware developed using scripting languages. This is why we now want to demonstrate how to configure a dynamic analysis environment to isolate such threats so we can understand and observe their behavior in a controlled environment.
+
 + [NetworkOpenedFiles v1.00](http://www.nirsoft.net/utils/network_opened_files.html)
 
 > NetworkOpenedFiles is a simple tool for Windows that displays the list of all files that are currently opened by other computers on your network. For every opened filename, the following information is displayed: Filename, user name, computer name (On Windows 7/2008 or later), Permissions information (Read/Write/Create), locks count, file owner, file size, file attributes, and more...
