@@ -1,6 +1,8 @@
 ## ::201602 / news::
 
 ### sec
++ [PoC k GTFO 8](https://www.alchemistowl.org/pocorgtfo/pocorgtfo08.pdf)
+
 + [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 + [trustedsec](https://www.trustedsec.com/february-2016/set-v7-0-remembrance-released/)
 
