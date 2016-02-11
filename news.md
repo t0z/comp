@@ -2,6 +2,9 @@
 
 ### sec
 
++ [KillDisk and BlackEnergy Are Not Just Energy Sector Threats](http://documents.trendmicro.com/assets/resources/IOC-KillDisk_and_BlackEnergy.pdf)
+__malware,info__
+
 + [EXECUTE MY PACKET /  CVE-2016-1287](https://blog.exodusintel.com/2016/02/10/firewall-hacking)
 
 > Cisco has issued a fix to address CVE-2016-1287. The Cisco ASA Adaptive Security Appliance is an IP router that acts as an application-aware firewall, network antivirus, intrusion prevention system, and virtual private network (VPN) server. It is advertised as “the industry’s most deployed stateful firewall.” When deployed as a VPN, the device is accessible from the Internet and provides access to a company’s internal networks.
