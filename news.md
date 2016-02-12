@@ -150,6 +150,9 @@ __reverse,zine__
 > This is part one of a series of blog posts detailing how docker creates containers. We will dig deep into the various pieces that are stitched together to see what it takes to make docker run ... awesome.
 
 ### dev
++ [Exploring Python Code Objects](http://late.am/post/2012/03/26/exploring-python-code-objects.html)
+
+> Inspired by David Beazley's Keynote at PyCon, I've been digging around in code objects in Python lately. I don't have a particular axe to grind, nor some particular task to solve (yet?), so consider this post just some notes and ramblings that might be of interest (and my apologies if not).
 
 + [libsalamander](https://github.com/SilentCircle/libsalamander)
 __silentcircle,salamander,protocol,messaging__
