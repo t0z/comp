@@ -148,6 +148,10 @@ __reverse,zine__
 + [Creating containers - Part 1](http://crosbymichael.com/creating-containers-part-1.html)
 
 > This is part one of a series of blog posts detailing how docker creates containers. We will dig deep into the various pieces that are stitched together to see what it takes to make docker run ... awesome.
+### sys
++ [Linux kernel bug delivers corrupt TCP/IP data to Mesos, Kubernetes, Docker containers](https://medium.com/vijay-pandurangan/linux-kernel-bug-delivers-corrupt-tcp-ip-data-to-mesos-kubernetes-docker-containers-4986f88f7a19)
+
+> The Linux Kernel has a bug that causes containers that use veth devices for network routing (such as Docker on IPv6, Kubernetes, Google Container Engine, and Mesos) to not check TCP checksums. This results in applications incorrectly receiving corrupt data in a number of situations, such as with bad networking hardware. The bug dates back at least three years and is present in kernels as far back as we’ve tested. Our patch has been reviewed and accepted into the kernel, and is currently being backported to -stable releases back to 3.14 in different distributions (such as Suse, and Canonical). If you use containers in your setup, I recommend you apply this patch or deploy a kernel with this patch when it becomes available. Note: Docker’s default NAT networking is not affected and, in practice, Google Container Engine is likely protected from hardware errors by its virtualized network.
 
 ### dev
 + [Exploring Python Code Objects](http://late.am/post/2012/03/26/exploring-python-code-objects.html)
