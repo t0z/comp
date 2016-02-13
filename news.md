@@ -1,6 +1,7 @@
 ## ::201602 / news::
 
 ### sec
++ [Conferencia en inglés "Blindsided Attacks" de Samy Kamkar, que tuvo lugar el viernes 27 en CyberCamp 2015](https://youtu.be/PDT1k1euoII)
 
 + [KillDisk and BlackEnergy Are Not Just Energy Sector Threats](http://documents.trendmicro.com/assets/resources/IOC-KillDisk_and_BlackEnergy.pdf)
 __malware,info__
