@@ -1,6 +1,12 @@
 ## ::201602 / news::
 
 ### sec
++ [www.secrepo.com](http://www.secrepo.com/)
+
+> Finding samples of various types of Security related can be a giant pain. This is my attempt to keep a somewhat curated list of Security related data I've found, created, or was pointed to. If you perform any kind of analysis with any of this data please let me know and I'd be happy to link it from here or host it here. Hopefully by looking at others research and analysis it will inspire people to add-on, improve, and create new ideas.
+
+
+
 + [Conferencia en inglés "Blindsided Attacks" de Samy Kamkar, que tuvo lugar el viernes 27 en CyberCamp 2015](https://youtu.be/PDT1k1euoII)
 
 + [KillDisk and BlackEnergy Are Not Just Energy Sector Threats](http://documents.trendmicro.com/assets/resources/IOC-KillDisk_and_BlackEnergy.pdf)
