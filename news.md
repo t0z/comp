@@ -173,6 +173,17 @@ __python__
 __python,debug,trace__
 
 ### arch
++ [Efficiently Computing Data-Independent Memory-Hard Functions](https://eprint.iacr.org/2016/115.pdf)
+
+> A memory-hard function (MHF) f is equipped with a space cost σ and time cost τ parameter such
+that repeatedly computing fσ,τ on an application specific integrated circuit (ASIC) is not economically
+advantageous relative to a general purpose computer. Technically we would like that any (generalized)
+circuit for evaluating an iMHF fσ,τ has area × time (AT) complexity at Θ(σ 2 ∗ τ ). A data-independent
+MHF (iMHF) has the added property that it can be computed with almost optimal memory and time
+complexity by an algorithm which accesses memory in a pattern independent of the input value. Such
+functions can be specified by fixing a directed acyclic graph (DAG) G on n = Θ(σ ∗ τ ) nodes representing
+its computation graph.
+
 + [Build Your Own (Cross-) Assembler....in Forth](http://www.bradrodriguez.com/papers/tcjassem.txt)
 
 > In a previous issue of this journal I described how to
