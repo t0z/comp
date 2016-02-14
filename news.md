@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Defending Against Mimikatz](https://jimshaver.net/2016/02/14/defending-against-mimikatz/)
+
+> One of the most interesting tools in a penetration tester’s arsenal is mimikatz.  Mimikatz is a tool that scrapes the memory of the process responsible for Windows authentication(LSASS) and reveals cleartext passwords and NTLM hashes that an attacker can use to pivot around a network.  From that point they escalate privilege either by authenticating with the clear text credentials or passing the hash. Sounds deadly right? Most people have the reaction “Why hasn’t Microsoft come up with a solution to this?”.
+
 + [www.secrepo.com](http://www.secrepo.com/)
 
 > Finding samples of various types of Security related can be a giant pain. This is my attempt to keep a somewhat curated list of Security related data I've found, created, or was pointed to. If you perform any kind of analysis with any of this data please let me know and I'd be happy to link it from here or host it here. Hopefully by looking at others research and analysis it will inspire people to add-on, improve, and create new ideas.
