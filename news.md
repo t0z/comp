@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [SSL Stripping and HSTS Bypass with BetterCap](https://www.bettercap.org/blog/sslstripping-and-hsts-bypass/)
+
+> Since version 1.3.0 BetterCap is able to perform SSL stripping and since version 1.3.8 it also performs HSTS bypass, but what are exactly these techniques and how can we use them?
+
 + [theZoo](https://github.com/ytisf/theZoo)
 
 > A repository of LIVE malwares for your own joy and pleasure 
