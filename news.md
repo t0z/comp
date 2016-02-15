@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Three tools to scan a Linux server for Malware and Rootkits](https://www.howtoforge.com/tutorial/how-to-scan-linux-for-malware-and-rootkits/)
+
+> Servers connected to the internet are seeing a constant level of attacks and scans all day. While a firewall and regular system updates are a good first defense to keep the system safe, you should also check regularly that no attacker got in. The tools described in this tutorial are made for these sanity checks, they scan for malware, viruses and rootkits. They should be run regularly, e.g. every night and send reports to you by email. You can also use Chkrootkit, Rkhunter and ISPProtect to scan a system when you see suspicious activity like high load, suspicious processes or when the server suddenly starts to send malware.
+
 + [ROPInjector](https://github.com/gpoulios/ROPInjector)
 
 > A tool written in C (Win32) to convert any shellcode in ROP and patch it into a given portable executable (PE). It supports only 32-bit target PEs and the x86 instruction set.
