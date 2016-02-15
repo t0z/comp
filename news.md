@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [ROPInjector](https://github.com/gpoulios/ROPInjector)
+
+> A tool written in C (Win32) to convert any shellcode in ROP and patch it into a given portable executable (PE). It supports only 32-bit target PEs and the x86 instruction set.
+
 + [Defending Against Mimikatz](https://jimshaver.net/2016/02/14/defending-against-mimikatz/)
 
 > One of the most interesting tools in a penetration tester’s arsenal is mimikatz.  Mimikatz is a tool that scrapes the memory of the process responsible for Windows authentication(LSASS) and reveals cleartext passwords and NTLM hashes that an attacker can use to pivot around a network.  From that point they escalate privilege either by authenticating with the clear text credentials or passing the hash. Sounds deadly right? Most people have the reaction “Why hasn’t Microsoft come up with a solution to this?”.
