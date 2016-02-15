@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Tools from the ZeroAccess author](http://www.kernelmode.info/forum/viewtopic.php?f=16&t=4235)
+
+> In this article, I will discuss various tools that I have found during the past few months and which I believe are from the same author as the ZeroAccess malware. It is also possible that the source code of the bot was sold after the “takedown” in 2013 and someone is now trying to make profit from it. This would at least make sense if we consider the behavior of the latest version of the ZeroAccess botnet (v3) which looks like it was only setup for testing purposes.
+
 + [PowerShell Runspace Post Exploitation Toolkit](https://github.com/Cn33liz/p0wnedShell)
 
 > p0wnedShell is an offensive PowerShell host application written in C# that does not rely on powershell.exe but runs powershell commands and functions within a powershell runspace environment (.NET). It has a lot of offensive PowerShell modules and binaries included to make the process of Post Exploitation easier. What we tried was to build an “all in one” Post Exploitation tool which we could use to bypass all mitigations solutions (or at least some off), and that has all relevant tooling included. You can use it to perform modern attacks within Active Directory environments and create awareness within your Blue team so they can build the right defense strategies.
