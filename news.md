@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [More Malicious JavaScript Obfuscation](https://isc.sans.edu/diary/More+Malicious+JavaScript+Obfuscation/20703)
+
+> Yesterday, I found an interesting phishing email. Nothing fancy or exotic about the content, just a classic email notification pretending to be sent by Paypal and asking the victim to urgently review and update his/her personal settings. 
+
 + [SSL Stripping and HSTS Bypass with BetterCap](https://www.bettercap.org/blog/sslstripping-and-hsts-bypass/)
 
 > Since version 1.3.0 BetterCap is able to perform SSL stripping and since version 1.3.8 it also performs HSTS bypass, but what are exactly these techniques and how can we use them?
