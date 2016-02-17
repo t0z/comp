@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Exploiting a Kernel Paged Pool Buffer Overflow in Avast Virtualization Driver	CVE-2015-8620](https://www.nettitude.co.uk/exploiting-a-kernel-paged-pool-buffer-overflow-in-avast-virtualization-driver/)
+
+> We discovered this vulnerability in the Avast Virtualization driver (aswSnx.sys) that handles some of the ‘Sandbox’ and ‘DeepScreen’ functionality of all the Avast Windows products. We initially found this issue in versions 10.x (10.4.2233.1305) of those products and later confirmed that the latest 11.x versions were still affected by this issue up to, and including v11.1.2245. Upon successful exploitation of this flaw, a local attacker can elevate privileges from any account type (guest included) and execute code as SYSTEM, thus completely compromising the affected host.
+
 + [Automatically inferring file syntax with afl-analyze](https://lcamtuf.blogspot.hu/2016/02/say-hello-to-afl-analyze.html)
 
 > The nice thing about the control flow instrumentation used by American Fuzzy Lop is that it allows you to do much more than just, well, fuzzing stuff. For example, the suite has long shipped with a standalone tool called afl-tmin, capable of automatically shrinking test cases while still making sure that they exercise the same functionality in the targeted binary (or that they trigger the same crash). Another similar tool, afl-cmin, employed a similar trick to eliminate redundant files in any large testing corpora.
