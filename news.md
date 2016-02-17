@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [300,000 American Homes Open To Hacks Of 'Unfixable' SimpliSafe Alarm](http://www.forbes.com/sites/thomasbrewster/2016/02/17/simplisafe-alarm-attacks)
+
+> “There is something terribly wrong with the alarm industry.” Thus reads marketing material on the site of SimpliSafe, a Boston-based “smart” alarm provider with more than 300,000 customers in the US. It’s been on a mission to improve home security since it formed in 2006 by using cellular technology to warn customers via their smartphone if someone has broken in, whilst allowing them to control alarms from afar.
+
 + [PWNING CCTV CAMERAS](https://www.pentestpartners.com/blog/pwning-cctv-cameras/)
 
 > CCTV is ubiquitous in the UK. A recent study estimates there are about 1.85m cameras across the UK - most in private premises. Most of those cameras will be connected to some kind of recording device, which these days means a Digital Video Recorder or DVR.
