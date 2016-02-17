@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Implementing the POODLE Attack](https://patzke.org/implementing-the-poodle-attack.html)
+
+> The POODLE attack gained my attention, as it was disclosed some time ago. An exploit has to act at different positions (victim browser, HTTP request generator and TLS proxy) in a coordinated way and it includes an interesting bit of broken cryptography. Furthermore I asked myself, how practicable this attack is and what the obstacles in buildung an exploit for it are. This writeup is about the experiences I have made while developing a Proof of Concept script for POODLE testing it.
+
 + [Tools from the ZeroAccess author](http://www.kernelmode.info/forum/viewtopic.php?f=16&t=4235)
 
 > In this article, I will discuss various tools that I have found during the past few months and which I believe are from the same author as the ZeroAccess malware. It is also possible that the source code of the bot was sold after the “takedown” in 2013 and someone is now trying to make profit from it. This would at least make sense if we consider the behavior of the latest version of the ZeroAccess botnet (v3) which looks like it was only setup for testing purposes.
