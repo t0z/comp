@@ -1,6 +1,19 @@
 ## ::201602 / news::
 
 ### sec
++ [Automatic Patch Generation by Learning Correct Code](https://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf)
+
+> We present Prophet, a novel patch generation system that works
+with a set of successful human patches obtained from opensource
+software repositories to learn a probabilistic, applicationindependent
+model of correct code. It generates a space of candidate
+patches, uses the model to rank the candidate patches in order
+of likely correctness, and validates the ranked patches against a
+suite of test cases to find correct patches. Experimental results
+show that, on a benchmark set of 69 real-world defects drawn from
+eight open-source projects, Prophet significantly outperforms the
+previous state-of-the-art patch generation system.
+
 + [Implementing the POODLE Attack](https://patzke.org/implementing-the-poodle-attack.html)
 
 > The POODLE attack gained my attention, as it was disclosed some time ago. An exploit has to act at different positions (victim browser, HTTP request generator and TLS proxy) in a coordinated way and it includes an interesting bit of broken cryptography. Furthermore I asked myself, how practicable this attack is and what the obstacles in buildung an exploit for it are. This writeup is about the experiences I have made while developing a Proof of Concept script for POODLE testing it.
