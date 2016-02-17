@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Automatically inferring file syntax with afl-analyze](https://lcamtuf.blogspot.hu/2016/02/say-hello-to-afl-analyze.html)
+
+> The nice thing about the control flow instrumentation used by American Fuzzy Lop is that it allows you to do much more than just, well, fuzzing stuff. For example, the suite has long shipped with a standalone tool called afl-tmin, capable of automatically shrinking test cases while still making sure that they exercise the same functionality in the targeted binary (or that they trigger the same crash). Another similar tool, afl-cmin, employed a similar trick to eliminate redundant files in any large testing corpora.
+
 + [Proof of concept for CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547)
 
 + [Automatic Patch Generation by Learning Correct Code](https://people.csail.mit.edu/fanl/papers/prophet-popl16.pdf)
