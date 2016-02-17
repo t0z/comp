@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [PWNING CCTV CAMERAS](https://www.pentestpartners.com/blog/pwning-cctv-cameras/)
+
+> CCTV is ubiquitous in the UK. A recent study estimates there are about 1.85m cameras across the UK - most in private premises. Most of those cameras will be connected to some kind of recording device, which these days means a Digital Video Recorder or DVR.
+
 + [Exploiting a Kernel Paged Pool Buffer Overflow in Avast Virtualization Driver	CVE-2015-8620](https://www.nettitude.co.uk/exploiting-a-kernel-paged-pool-buffer-overflow-in-avast-virtualization-driver/)
 
 > We discovered this vulnerability in the Avast Virtualization driver (aswSnx.sys) that handles some of the ‘Sandbox’ and ‘DeepScreen’ functionality of all the Avast Windows products. We initially found this issue in versions 10.x (10.4.2233.1305) of those products and later confirmed that the latest 11.x versions were still affected by this issue up to, and including v11.1.2245. Upon successful exploitation of this flaw, a local attacker can elevate privileges from any account type (guest included) and execute code as SYSTEM, thus completely compromising the affected host.
