@@ -1,6 +1,11 @@
 ## ::201602 / news::
 
 ### sec
+
++ [Machinae v1.2.0 – Security Intelligence Collector](http://seclist.us/machinae-v1-2-0-security-intelligence-collector.html)
+
+> Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints. It was inspired by Automater, another excellent tool for collecting information. The Machinae project was born from wishing to improve Automater in 4 areas:
+
 + [300,000 American Homes Open To Hacks Of 'Unfixable' SimpliSafe Alarm](http://www.forbes.com/sites/thomasbrewster/2016/02/17/simplisafe-alarm-attacks)
 
 > “There is something terribly wrong with the alarm industry.” Thus reads marketing material on the site of SimpliSafe, a Boston-based “smart” alarm provider with more than 300,000 customers in the US. It’s been on a mission to improve home security since it formed in 2006 by using cellular technology to warn customers via their smartphone if someone has broken in, whilst allowing them to control alarms from afar.
