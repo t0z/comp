@@ -1,6 +1,10 @@
 ## ::201602 / news::
 
 ### sec
++ [Veil-Evasion v2.24](http://seclist.us/veil-evasion-v2-24-is-a-tool-designed-to-generate-metasploit-payloads-that-bypass-common-anti-virus-solutions.html)
+
+> Veil-Evasion is a tool designed to generate metasploit payloads that bypass common anti-virus solutions.
+
 + [SX 6th Meetup – Linux Malware Analysis using Limon Sandbox](http://securitytrainings.net/linux-malware-analysis-using-limon-sandbox/)
 
 > In this presentation, Monnappa covered Linux malware analysis and showed automation of Linux malware analysis using Limon sandbox, he also demonstrated analysis of Linux malwares Tsunami, Mayhem and Suterusu Rootkit using Limon
