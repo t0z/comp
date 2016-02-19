@@ -1,6 +1,9 @@
 ## ::201602 / news::
 
 ### sec
++ [SX 6th Meetup – Linux Malware Analysis using Limon Sandbox](http://securitytrainings.net/linux-malware-analysis-using-limon-sandbox/)
+
+> In this presentation, Monnappa covered Linux malware analysis and showed automation of Linux malware analysis using Limon sandbox, he also demonstrated analysis of Linux malwares Tsunami, Mayhem and Suterusu Rootkit using Limon
 
 + [Machinae v1.2.0 – Security Intelligence Collector](http://seclist.us/machinae-v1-2-0-security-intelligence-collector.html)
 
