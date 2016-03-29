@@ -1,3 +1,6 @@
+## ::201603 / news::
++ [EN| Awesome Learn Wifi Security](https://canyoupwn.me/en-awesome-learn-wifi-security/)
+
 ## ::201602 / news::
 
 ### sec
